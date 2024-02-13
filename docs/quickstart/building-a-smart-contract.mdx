@@ -711,8 +711,8 @@ async fn test_reset_counter() {
     // Read value from counter
     let result = instance.methods().count().call().await.unwrap();
 
-    // Check that the current value is 0 
     // Since we reset the counter value
+	// Check that the current value is 0 
     assert_eq!(result.value, 0);
 }
 
@@ -726,6 +726,8 @@ cargo test
 ```
 
 If all goes well, the output should look as follows:
+
+{/* NEW CHANGES ADDED HERE */}
 
 ```sh
   ...
