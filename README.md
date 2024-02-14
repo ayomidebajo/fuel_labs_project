@@ -1,6 +1,6 @@
 
 ## Note
-For simplicity, I commented out the link to the files(i.e `<CodeImport .../>`) that import/shows the code in `main.sw`.Instead, I put in the code blocks directly in the [documentation file](./docs/quickstart/building-a-smart-contract.mdx).
+For simplicity, I commented out the link to the files (i.e `<CodeImport .../>`) that import/shows the code in `main.sw`. Instead, I put in the code blocks of the changes I made directly in the [documentation file](./docs/quickstart/building-a-smart-contract.mdx).
 
 # Project Name
 
