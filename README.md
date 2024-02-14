@@ -42,6 +42,6 @@ I faced a challenge with the test cases for the new functions. I had to figure o
 
 ## Future Improvements
 
-We could also improve the functions used to `decrement` and `increment` values to include an `Option`al custom step `(u64)`, so that the counter can be decremented and/or incremented by any value and defaults to 1 if it doesn't receive a custom step (receives a `None` value).
+We could also improve the functions used to `decrement` and `increment` values to include an `Option`al custom step `(u64)`, so that the counter can be decremented and/or incremented by any value and defaults to 1 if it doesn't receive a custom step (i.e receives a `None` value).
 
 
