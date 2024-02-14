@@ -44,6 +44,4 @@ impl Counter for Contract {
     fn count() -> u64 {
         storage.counter.read()
     }
-
-    // todo: remove ds_store file from the repo
 }

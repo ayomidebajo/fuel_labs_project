@@ -1,6 +1,6 @@
 
 ## Note
-For simplicity, I commented out the link to the files that shows the code in `main.sw` and put in the code directly in the [documentation file](./docs/quickstart/building-a-smart-contract.mdx).
+For simplicity, I commented out the link to the files(i.e `<CodeImport .../>`) that import/shows the code in `main.sw`.Instead, I put in the code blocks directly in the [documentation file](./docs/quickstart/building-a-smart-contract.mdx).
 
 # Project Name
 
@@ -8,7 +8,7 @@ Counter Countract (Smart contract example)
 
 ## Overview
 
-This project is an example of a smart contract that provides counter funtionality. It includes, a smart contract and a test file. 
+This project is an example of a smart contract that provides counter funtionality. It includes, a smart contract, a test directory and a docs directory.
 
 ## Feature Implementation
 
@@ -16,7 +16,7 @@ This project is an example of a smart contract that provides counter funtionalit
  - Counter: The smart contract provides a counter in storage that can be incremented and decremented.
  - Increment: The function to increment the counter.
 
-### New Feature
+### New Features
  - Decrement: The function to decrement the counter.
  - Reset: The function to reset the counter to zero.
 
