@@ -34,7 +34,7 @@ All documentation changes have a comment `{/* NEW CHANGES ADDED HERE */}` to ind
 
 ## Significant Decisions and Justifications
 
-I decided to add the decrement feature to the smart contract because it is a common operation that is often needed in counter functionality. I also added the reset feature to reset the counter to zero. I added test cases to test the new features.
+I decided to add the decrement feature to the smart contract because it is a common operation that is often needed in counter functionality. I also added the reset feature to reset the counter to zero. I added test cases to test these new features.
 
 ## Challenges Faced
 
