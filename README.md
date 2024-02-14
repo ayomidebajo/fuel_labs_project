@@ -2,6 +2,8 @@
 ## Note
 For simplicity, I commented out the link to the files (i.e `<CodeImport .../>`) that import/shows the code in `main.sw`. Instead, I put in the code blocks of the changes I made directly in the [documentation file](./docs/quickstart/building-a-smart-contract.mdx).
 
+I tried to emulate the original structure of the documentation file as much as possible, so that the changes I made can be easily identified. For instance, the documentation file is embedded within the `docs` directory, and the changes I made are in the `quickstart` directory.
+
 # Project Name
 
 Counter Countract (Smart contract example)
